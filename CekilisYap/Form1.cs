@@ -44,15 +44,18 @@ namespace CekilisYap
         void DosyayaYaz(string dosyayeri)
         {
             string yazilacaksey = "";
-            foreach (string kisi in listBox1.Items)
+            if (listBox1.Items.Count != 0)
             {
-                if (yazilacaksey != "")
+                foreach (string kisi in listBox1.Items)
                 {
-                    yazilacaksey += Environment.NewLine + kisi;
-                }
-                else
-                {
-                    yazilacaksey += kisi; //Boş sıra koruması
+                    if (yazilacaksey != "")
+                    {
+                        yazilacaksey += Environment.NewLine + kisi;
+                    }
+                    else
+                    {
+                        yazilacaksey += kisi; //Boş sıra koruması
+                    }
                 }
             }
             File.WriteAllText(dosyayeri, yazilacaksey);
