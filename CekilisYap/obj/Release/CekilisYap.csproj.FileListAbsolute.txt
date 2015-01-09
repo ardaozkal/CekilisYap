@@ -6,3 +6,4 @@ c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\o
 c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.csproj.GenerateResource.Cache
 c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.exe
 c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.pdb
+C:\Users\ardaozkal\Documents\Visual Studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.csprojResolveAssemblyReference.cache
