@@ -24,7 +24,10 @@ namespace CekilisYap
             string[] kisiler = dosyaicerigi.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
             foreach (string kisi in kisiler)
             {
-                KisiEkle(kisi);
+                if (kisi != "")
+                {
+                    KisiEkle(kisi);
+                }
             } 
         }
 
