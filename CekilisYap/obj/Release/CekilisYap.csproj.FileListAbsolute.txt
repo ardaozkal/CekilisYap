@@ -1,0 +1,8 @@
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\bin\Release\CekilisYap.exe.config
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\bin\Release\CekilisYap.exe
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\bin\Release\CekilisYap.pdb
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.Form1.resources
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.Properties.Resources.resources
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.csproj.GenerateResource.Cache
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.exe
+c:\users\ardaozkal\documents\visual studio 2013\Projects\CekilisYap\CekilisYap\obj\Release\CekilisYap.pdb
